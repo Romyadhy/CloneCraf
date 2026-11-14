@@ -1,0 +1,3 @@
+/run/media/romy/DATA/Document/C++/GAME3D/CrafClone/build/CMakeFiles/CrafClone.dir
+/run/media/romy/DATA/Document/C++/GAME3D/CrafClone/build/CMakeFiles/edit_cache.dir
+/run/media/romy/DATA/Document/C++/GAME3D/CrafClone/build/CMakeFiles/rebuild_cache.dir
